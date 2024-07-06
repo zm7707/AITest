@@ -7,7 +7,7 @@ const CatalogCard = ({ product }) => {
         <img
           className="h-full w-full rounded-t-xl"
           src={product.image}
-          alt={product.name}
+          alt="image of product"
         />
       </div>
       <div className="h-full w-full flex flex-col items-center justify-center bg-white rounded-b-xl border border-gray-200">
