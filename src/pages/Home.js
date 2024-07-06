@@ -7,6 +7,7 @@ const Home = () => {
         <img
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6LtLOV7jZlPNSbFsGm5a73NI3vrGoKcNADw&s"
           className="h-full"
+          alt="man with thumbs up"
         />
         <div className="col-span-2">
           <h3 className="p-4 text-2xl text-center">
